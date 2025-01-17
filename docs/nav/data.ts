@@ -67,13 +67,13 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '茂茂的站点导航',
+    title: 'Power的站点导航',
     items: [
       {
         icon: '/logo.png',
         title: '前端日常笔记',
         desc: '日常笔记记录（零零散散啥都记系列）',
-        link: 'https://github.com/maomao1996/daily-notes',
+        link: 'https://github.com/zsl1549/daily-notes',
       },
       {
         icon: '/logo.png',

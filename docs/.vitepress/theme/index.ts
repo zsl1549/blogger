@@ -37,8 +37,8 @@ export default {
         () => router.route.data.relativePath,
         () =>
           updateHomePageStyle(
-            /* /vitepress-nav-template/ 是为了兼容 GitHub Pages */
-            location.pathname === '/' || location.pathname === '/vitepress-nav-template/',
+            /* /blogger/ 是为了兼容 GitHub Pages */
+            location.pathname === '/' || location.pathname === '/blogger/',
           ),
         { immediate: true },
       )

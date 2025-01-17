@@ -1,17 +1,17 @@
-# vitepress-nav-template
+# blogger
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maomao1996/picture/main/vitepress-nav-template/home.webp" alt="home" />
+  <img src="https://raw.githubusercontent.com/zsl1549/picture/main/blogger/home.webp" alt="home" />
 </p>
 <p align="center"> 基于 <b>VitePress</b> 的个人前端导航页面模板 </p>
-<p align='center'><a href="/guide.md">基础教程</a> | <a href="https://notes.fe-mm.com/">作者博客</a></p>
+<p align='center'><a href="/guide.md">基础教程</a> | <a href="https://zsl1549.github.io">作者博客</a></p>
 
 ---
 
 ## 预览地址
 
 - <https://fe-nav.netlify.app/nav/>
-- <https://maomao1996.github.io/vitepress-nav-template/nav/>
+- <https://zsl1549.github.io/blogger/nav/>
 
 ## 功能
 
@@ -56,7 +56,7 @@ export default defineConfig({
     /* 访客统计 */
     visitor: {
       /** 统计 id（单独页面的统计会作为前缀使用）*/
-      badgeId: 'maomao1996.vitepress-nav-template',
+      badgeId: 'zsl1549.blogger',
     },
   },
 })
@@ -103,4 +103,4 @@ docs: 更新 README
 
 ## 说明
 
-前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/maomao1996/vitepress-nav-template>
+前端导航模块由 [Power | zsl1549](https://github.com/zsl1549) 开发，如有引用、借鉴的请保留版权声明：<https://github.com/zsl1549/blogger>

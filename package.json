@@ -1,5 +1,5 @@
 {
-  "name": "vitepress-nav-template",
+  "name": "blogger",
   "type": "module",
   "version": "1.0.0",
   "description": "基于 VitePress 打造个人前端导航网站",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maomao1996/vitepress-nav-template.git"
+    "url": "git+https://github.com/zsl1549/blogger.git"
   },
-  "author": "maomao1996 <1714487678@qq.com>",
+  "author": "zsl1549 <zsl1549@163.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maomao1996/vitepress-nav-template/issues"
+    "url": "https://github.com/zsl1549/blogger/issues"
   },
-  "homepage": "https://github.com/maomao1996/vitepress-nav-template#readme",
+  "homepage": "https://github.com/zsl1549/blogger#readme",
   "devDependencies": {
     "@femm/prettier": "^1.1.0",
     "@femm/tailwind-config": "^1.0.0",
