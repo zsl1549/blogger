@@ -45,7 +45,7 @@ features:
     link: https://zsl1549.github.iopit/npm
     linkText: 踩坑记录
   - icon: 💯
-    title: 平平无奇的我却想、一双双手敲出新世界。
+    title: 平平无奇的我却想、一双手敲出新世界。
     details: '<small class="bottom-small">一个想躺平的小开发</small>'
     link: https://zsl1549.github.iomao
 ---
